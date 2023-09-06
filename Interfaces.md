@@ -48,7 +48,7 @@ public class Creature implements Comparable {
 }
 ```
 
-##### Note: If an entire hierarchy of classes implements the same interface, you can write very generic code to manipulate all the classes at once
+Note: If an entire hierarchy of classes implements the same interface, you can write very generic code to manipulate all the classes at once
 
 ```java
 Comparable[] list = {3, 8, 7, 6, 5, 4, 9};
