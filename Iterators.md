@@ -24,7 +24,7 @@ List<Integer> nums = new ArrayList<>();
 Iterator<Integer> iterator = nums.iterator();
 ```
 
-# Iterator Methods
+## Iterator Methods
 
 ### .next()
 
@@ -47,7 +47,7 @@ while(iterator.hasNext(1) {
 - It removes the current element
   - **Be careful with remove especially within a for each loop**
 
-# ListIterator Interface
+## ListIterator Interface
 
 - ListIterator is an offshoot of Iterator made specifically for lists
 - Allows us to move both directions
