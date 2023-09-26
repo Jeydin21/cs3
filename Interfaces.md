@@ -4,7 +4,7 @@ Period: 5
 
 Date: 9/5/2023
 
-# Unit 2: Interfaces
+# Unit 1 Notes: Interfaces
 
 - An interface is a list of methods that must be implemented
 - An interface may not contain any implemented methods. Intefaces do not have constructors

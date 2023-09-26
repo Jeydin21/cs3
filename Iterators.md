@@ -4,7 +4,7 @@ Date: 9/11/2023
 
 Period: 5
 
-# Unit 1 Notes: Iterators
+# Unit 2 Notes: Iterators
 
 ### Intro to Iterators
 
