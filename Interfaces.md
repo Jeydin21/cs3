@@ -1,8 +1,8 @@
 Name: Jeydin Pham
 
-Period: 5
-
 Date: 9/5/2023
+
+Period: 5
 
 # Unit 1 Notes: Interfaces
 
