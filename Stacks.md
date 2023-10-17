@@ -32,7 +32,7 @@ import java.util.Stack;
 Stack<Integer> stack = new Stack<>();
 ```
 
-## Push Operation
+### Push Operation
 
 ```java
 stack.push(10);
@@ -40,25 +40,48 @@ stack.push(20);
 stack.push(30);
 ```
 
-## Pop Operation
+### Pop Operation
 
 ```java
 int topElement = stack.pop(); // Removes and returns top element (in this case it would be the 30 just added)
 ```
 
-## Peek Operation
+### Peek Operation
 
 ```java
 int topElement = stack.peek(); // Returns the top element (in this case it would be 20)
 ```
 
-## Empty Operation
+### Empty Operation
 
 ```java
 boolean isEmpty = stack.isEmpty(); // Returns true if the stack is empty, false otherwise
 ```
 
 ## TIPS/REMINDERS
+1. Check if the stack is empty before using pop or peek.
+```java
+if(!stack.isEmpty()) {
+    int topElement = stack.pop();
+}
+```
+
+2. Iteration: You can use iterations on for-each loops to go through each element in the stack, but remember that this won't follow the LIFO order.
+```java
+for(int element: stack) {
+    System.out.println(element);
+}
+```
+
+3. Size:
+```java
+int size = stack.size();
+```
+
+4. Search:
+```java
+int position = stack.search(20); // Returns 1 if 20 is at the top, 2 if second, etc.
+```
 
 # Example
 
