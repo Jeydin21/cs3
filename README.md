@@ -8,3 +8,4 @@ Notes I take in my Data Structures & Algorithms class in [Markdown](https://www.
 * [Unit 5: Stacks](https://j21.dev/Notes/Stacks)
 * [Unit 6: Queues](https://j21.dev/Notes/Queues)
 * [Unit 7: Linked Lists](https://j21.dev/Notes/LinkedList)
+* [Unit 9: Big O Notation](https://j21.dev/Notes/BigO-Notation)
