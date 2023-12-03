@@ -1,8 +1,8 @@
 # Unit 7 Notes: Linked Lists
+
 A linked list is a data structure consisting of nodes where each node contains data and a reference to the next node in the sequence.
 
 To go through a linked list, you start at the head (first node) and follow the references from one node to the next until you reach the end (a node that points to null).
-
 
 Creating and Printing Lists
 Understand how to construct a linked list and print its elements.
@@ -30,12 +30,14 @@ head = new ListNode("NewData", head);  // Adds a new node before the current hea
 ```
 
 Adding a Node at the Front
+
 ```java
 ListNode newNode = new ListNode("Data", head);
 head = newNode;
 ```
 
 Adding A Node at the end
+
 ```java
 ListNode current = head;
 while (current.getNext() != null) {
@@ -49,12 +51,14 @@ To remove a node, you must adjust the next reference of the preceding node to sk
 
 Finding a Node
 To find a node with a specific value:
+
 ```java
 ListNode current = head;
 while (current != null && !current.getValue().equals("ValueToFind")) {
 		current = current.getNext();
 }// If current is not null, the node was found
 ```
+
 Empty List
 Always check if the list is empty (head == null) before performing operations.
 
@@ -66,6 +70,7 @@ When iterating, the end is reached when current.getNext() == null.
 
 Common Patterns
 Traversing the List
+
 ```java
 ListNode current = head;
 while (current != null) {
@@ -75,6 +80,7 @@ while (current != null) {
 ```
 
 Printing the List
+
 ```java
 ListNode current = head;
 while (current != null) {
@@ -82,7 +88,9 @@ while (current != null) {
 		current = current.getNext();
 }
 ```
+
 Reversing the List
+
 ```java
 ListNode prev = null;
 ListNode current = head;
@@ -96,8 +104,10 @@ while (current != null) {
 head = prev;
 
 ```
+
 Counting Specific Elements
 Counting Nodes
+
 ```java
 int count = 0;
 ListNode current = head;

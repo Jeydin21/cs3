@@ -53,7 +53,9 @@ boolean isEmpty = stack.isEmpty(); // Returns true if the stack is empty, false 
 ```
 
 ## TIPS/REMINDERS
+
 1. Check if the stack is empty before using pop or peek.
+
 ```java
 if(!stack.isEmpty()) {
     int topElement = stack.pop();
@@ -61,6 +63,7 @@ if(!stack.isEmpty()) {
 ```
 
 2. Iteration: You can use iterations on for-each loops to go through each element in the stack, but remember that this won't follow the LIFO order.
+
 ```java
 for(int element: stack) {
     System.out.println(element);
@@ -68,11 +71,13 @@ for(int element: stack) {
 ```
 
 3. Size:
+
 ```java
 int size = stack.size();
 ```
 
 4. Search:
+
 ```java
 int position = stack.search(20); // Returns 1 if 20 is at the top, 2 if second, etc.
 ```
