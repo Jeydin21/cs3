@@ -11,7 +11,7 @@ Notes I take in my Data Structures & Algorithms class in [Markdown](https://www.
 - [Unit 5: Stacks](https://cs3.j21.dev/stacks)
 - [Unit 6: Queues](https://cs3.j21.dev/queues)
 - [Unit 7: Linked Lists](https://cs3.j21.dev/linkedlists)
-- [Unit 8: Binary Trees](https://cs3.j21.dev/binarytrees)
+- [Unit 8: Binary Trees](https://cs3.j21.dev/binarytrees.pdf)
 - [Unit 9: Big O Notation](https://cs3.j21.dev/big-o)
 
 ### Semester 2
