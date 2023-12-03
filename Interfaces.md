@@ -1,9 +1,3 @@
-Name: Jeydin Pham
-
-Date: 9/5/2023
-
-Period: 5
-
 # Unit 1 Notes: Interfaces
 
 - An interface is a list of methods that must be implemented

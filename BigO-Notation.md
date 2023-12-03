@@ -5,7 +5,7 @@ Big O Notation expresses an upper bound on the time complexity for an algorithm
 
 
 ## Big O Notation Graph
-![](https://paper-attachments.dropbox.com/s_2D428973624E7FC84C7D69D11421DE762BEA6B6F3361231FCDCAE0425D14526F_1664885448372_Untitled.drawio+17.png) 
+![](assets/time-complexity-chart.png) 
 
 ### Insertion
 - Best case: O(n)

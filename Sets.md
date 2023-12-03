@@ -1,10 +1,4 @@
-Name: Jeydin Pham
-
-Date: 9/18/2023
-
-Period: 5
-
-# Unit 3 Notes: Set
+# Unit 3 Notes: Sets
 
 ## What is a Set?
 

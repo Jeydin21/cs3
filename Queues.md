@@ -1,10 +1,4 @@
-Name: Jeydin Pham
-
-Date: 10/19/2023
-
-Period: 5
-
-# Unit 6: Introduction to Queues in Java for Beginners
+# Unit 6 Notes: Queues
 
 ## What is a Queue?
 

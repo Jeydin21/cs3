@@ -1,9 +1,3 @@
-Name: Jeydin Pham
-
-Date: 10/17/2023
-
-Period: 5
-
 # Unit 5: Stacks
 
 ## Introduction to Stacks in Java

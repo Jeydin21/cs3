@@ -1,9 +1,3 @@
-Name: Jeydin Pham
-
-Date: 9/11/2023
-
-Period: 5
-
 # Unit 2 Notes: Iterators
 
 ### Intro to Iterators

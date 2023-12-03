@@ -1,10 +1,4 @@
-Name: Jeydin Pham
-
-Date: 11/06/2023
-
-Period: 5
-
-# Unit 7: Introduction to Linked List
+# Unit 7 Notes: Linked Lists
 A linked list is a data structure consisting of nodes where each node contains data and a reference to the next node in the sequence.
 
 To go through a linked list, you start at the head (first node) and follow the references from one node to the next until you reach the end (a node that points to null).
