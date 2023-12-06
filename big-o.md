@@ -4,8 +4,8 @@ The processing complexity of various sorting algorithms and operations in differ
 
 Big O Notation expresses an upper bound on the time complexity for an algorithm
 
-- Time Complexity Chart
-  ![](assets/time-complexity-chart.png)
+#### Time Complexity Chart
+![](assets/time-complexity-chart.png)
 
 | Best           | Good | Fair       | Bad      | Terrible | Worst |
 | -------------- | ---- | ---------- | -------- | -------- | ----- |
