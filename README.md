@@ -15,5 +15,6 @@ Notes I take in my Data Structures & Algorithms class in [Markdown](https://www.
 - [Unit 9: Big O Notation](https://cs3.j21.dev/big-o)
 
 ### Semester 2
+Teacher lowkey fell off second semester, just left us assignments with barely any notes to have us guess our way through
 
-Nothing yet!
+- [List Comprehensions in Python](https://cs3.j21.dev/listcomprehensions.pdf)
