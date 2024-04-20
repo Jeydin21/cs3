@@ -11,10 +11,11 @@ Notes I take in my Data Structures & Algorithms class in [Markdown](https://www.
 - [Unit 5: Stacks](https://cs3.j21.dev/stacks)
 - [Unit 6: Queues](https://cs3.j21.dev/queues)
 - [Unit 7: Linked Lists](https://cs3.j21.dev/linkedlists)
-- [Unit 8: Binary Trees](https://cs3.j21.dev/binarytrees.pdf)
+- [Unit 8: Binary Trees](https://cs3.j21.dev/assets/binaryTrees.pdf)
 - [Unit 9: Big O Notation](https://cs3.j21.dev/big-o)
 
 ### Semester 2
 Teacher lowkey fell off second semester, just left us assignments with barely any notes to have us guess our way through
 
-- [List Comprehensions in Python](https://cs3.j21.dev/listcomprehensions.pdf)
+- [List Comprehensions in Python](https://cs3.j21.dev/assets/listComprehensions.pdf)
+- [Classes in Python](https://cs3.j21.dev/assets/pythonClasses.pdf)
